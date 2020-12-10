@@ -12,7 +12,7 @@
         {{ todo.date }}
         {{ todo.time }}
         <div class="justify-content-center">
-          <el-tooltip content="Double click to complete task" placement="top">
+          <el-tooltip content="Click to complete task" placement="top">
             <el-button
               class="text-indigo-900"
               style="padding: 3px 0"
